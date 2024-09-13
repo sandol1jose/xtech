@@ -1,0 +1,106 @@
+.product-detail {
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    max-width: auto;
+    margin: 0 auto;
+}
+
+.product-image {
+    width: 416px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.product-description {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-size: 1.5rem;
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.product-details {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.buy-btn {
+    margin-top: 10px;
+}
+
+.video{
+    width: 30vw;
+}
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en una nueva línea si es necesario */
+    font-size: 30px;
+  }
+  
+  .flex-item-left {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .flex-item-right {
+    padding-top: 20px;
+    flex: 1;
+  }
+  
+  .flex-item-down {
+    padding-top: 20px;
+    flex: 0 0 100%; /* Hace que este elemento ocupe toda la fila */
+  }
+  
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+
+
+  @media (max-width: 1200px) {
+    .product-image {
+        width: 42vw;
+        height: 50vw;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        flex-wrap: none; /* Permite que los elementos se envuelvan en una nueva línea si es necesario */
+      }
+
+    .flex-item-left {
+        text-align: center;
+    }
+
+    .video{
+        width: 70vw;
+    }
+  }
+
+
+  @media (max-width: 600px) {
+    .product-image {
+        width: 67vw;
+        height: 80vw;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .flex-item-left {
+        text-align: center;
+      }
+
+      .video{
+        width: 90vw;
+    }
+  }
