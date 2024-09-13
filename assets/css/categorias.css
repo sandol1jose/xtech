@@ -1,0 +1,69 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+}
+
+.product-card img {
+    width: 326px;
+    height: 228px;
+    object-fit: cover;
+    transition: transform 0.3s ease; /* Transición suave */
+    filter: saturate(1.3); /* Aumenta la saturación en un 50% */
+}
+
+.product-card:hover img {
+    transform: scale(1.1); /* Zoom de 10% */
+}
+
+.product-card .card-body {
+    padding: 15px;
+    flex: 1; /* Permite que el contenido se expanda para llenar el espacio disponible */
+}
+.product-card h5 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+.product-card p {
+    font-size: 1rem;
+    color: #555;
+}
+
+
+.div-image{
+    text-align: center;
+}
+
+.div-texto{
+    height: 170px;
+    overflow: hidden; /* Oculta el contenido que se desborda */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 6; /* Número de líneas que deseas mostrar antes de truncar */
+    text-overflow: ellipsis; /* Muestra los puntos suspensivos (...) */
+    margin-bottom: 15px;
+}
+
+
+
+@media (max-width: 768px) {
+    .product-card img {
+        width: 100%; /* Ajusta la imagen al ancho de la tarjeta en pantallas pequeñas */
+        height: auto; /* Mantiene la proporción de la imagen en pantallas pequeñas */
+    }
+
+    .div-texto{
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .product-card:hover img {
+        transform: none
+    }
+}
+

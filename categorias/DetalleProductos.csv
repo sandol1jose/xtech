@@ -1,0 +1,85 @@
+id,Nombre,Descripción corta,Fabricante,Pais,Documento,Video1,Video2,Imagen1,Imagen2,Imagen3,Imagen4,Imagen5,Categoria,Detalles,
+1,DUS-5000 PLUS Ultrasonido,"Tecnologías poderosas para ser tu asistente portátil de confianza. El Sistema de Imagenología de Diagnóstico por Ultrasonido Digital Avanzado® DUS-500 Plus es un impresionante sistema de ultrasonido compacto, que ofrece un valor excepcional y la mejor calidad en toda la gama de aplicaciones, con soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes Doppler de potencia e imágenes Doppler de onda pulsada para cumplir con los requisitos de diagnóstico más exigentes.",Advanced Instrumentations,Estados Unidos,DUS-5000-Plus.pdf ,ultrasonido.mp4,null,Ultrasonido2.png,null,null,null,null,Sistemas de ultrasonido,"<h1 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: var(--heading-color); font-size: 2.5rem; font-family: var(--heading-font); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"">DUS-5000 PLUS Ultrasonido</h1>
+<h2 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-weight: 700; line-height: 1.2; color: var(--heading-color); font-size: 26px; font-family: var(--heading-font); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"">Tecnolog&iacute;as Poderosas para Ser Tu Asistente Port&aacute;til</h2>
+<p style='box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 0px; color: rgb(33, 37, 41); font-family: Roboto, system-ui, -apple-system, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, ""Noto Sans"", ""Liberation Sans"", sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>El sistema de diagn&oacute;stico por ultrasonido digital avanzado&reg; DUS-500 Plus es un nuevo y compacto sistema de ultrasonido que ofrece un valor impresionante y la mejor calidad en toda la gama de aplicaciones con soporte mejorado para PW/CW, im&aacute;genes de flujo Doppler en color, im&aacute;genes de Doppler por potencia y Doppler por onda pulsada para satisfacer los requisitos diagn&oacute;sticos m&aacute;s exigentes.</p>
+<div class=""standard-features"" style='box-sizing: border-box; color: rgb(33, 37, 41); font-family: Roboto, system-ui, -apple-system, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, ""Noto Sans"", ""Liberation Sans"", sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
+    <h2 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-weight: 700; line-height: 1.2; color: var(--heading-color); font-size: 26px; font-family: var(--heading-font);"">Caracter&iacute;sticas Est&aacute;ndar</h2>
+    <div class=""features"" style=""box-sizing: border-box;"">
+        <h3 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: var(--heading-color); font-size: 1.75rem; font-family: var(--heading-font);"">Modos de Im&aacute;genes</h3>
+        <ul style=""box-sizing: border-box; padding-left: 2rem; margin-top: 0px; margin-bottom: 1rem;"">
+            <li style=""box-sizing: border-box;"">Modo B (B)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Armonicas de Tejido (THI)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Armonicas de Inversi&oacute;n Pura (PHI)</li>
+            <li style=""box-sizing: border-box;"">Mapeo de Flujo en Color (CFM)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes de Doppler por Potencia (PDI)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes de Doppler por Potencia Direccional (DPDI)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Doppler de Tejido (TDI)</li>
+            <li style=""box-sizing: border-box;"">Doppler por Onda Pulsada (PW)</li>
+            <li style=""box-sizing: border-box;"">Doppler por Onda Continua (CW)</li>
+            <li style=""box-sizing: border-box;"">Modo M (M)</li>
+            <li style=""box-sizing: border-box;"">Modo Color M (CFM+M)</li>
+            <li style=""box-sizing: border-box;"">Modo M Anat&oacute;mico (AMM, Steer M)</li>
+        </ul>
+    </div>
+    <div class=""functions"" style=""box-sizing: border-box;"">
+        <h3 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: var(--heading-color); font-size: 1.75rem; font-family: var(--heading-font);"">Funciones</h3>
+        <ul style=""box-sizing: border-box; padding-left: 2rem; margin-top: 0px; margin-bottom: 1rem;"">
+            <li style=""box-sizing: border-box;"">Reducci&oacute;n de Ruido en 2D y Mejora de Bordes (2D &mu;-scan)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Compuestas Espaciales (SCI)</li>
+            <li style=""box-sizing: border-box;"">Auto trazado PW</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes de Flujo SR</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Trapezoidales</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Panor&aacute;micas en Tiempo Real 2D</li>
+            <li style=""box-sizing: border-box;"">Compensaci&oacute;n de Ganancia Lateral Dual (LGC)</li>
+            <li style=""box-sizing: border-box;"">Auto (Optimizaci&oacute;n con un solo bot&oacute;n para 2D/M/CW/PW)</li>
+            <li style=""box-sizing: border-box;"">Funci&oacute;n de Rotaci&oacute;n de Imagen</li>
+            <li style=""box-sizing: border-box;"">Medici&oacute;n Autom&aacute;tica de IMT</li>
+            <li style=""box-sizing: border-box;"">&Iacute;ndice TEI</li>
+            <li style=""box-sizing: border-box;"">Gu&iacute;a de Biopsia</li>
+            <li style=""box-sizing: border-box;"">VIS-Needle (Mejora de Visualizaci&oacute;n de Aguja)</li>
+            <li style=""box-sizing: border-box;"">Im&aacute;genes Panor&aacute;micas (2D en Tiempo Real)</li>
+            <li style=""box-sizing: border-box;"">Zoom en Pantalla Completa</li>
+            <li style=""box-sizing: border-box;"">Mostrar Galer&iacute;a</li>
+            <li style=""box-sizing: border-box;"">DICOM 3.0: WIFI (DICOM)</li>
+            <li style=""box-sizing: border-box;"">Triplex</li>
+        </ul>
+    </div>
+</div>
+<p style='box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 0px; color: rgb(33, 37, 41); font-family: Roboto, system-ui, -apple-system, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, ""Noto Sans"", ""Liberation Sans"", sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>Cumple con el Est&aacute;ndar de Calidad ISO 13485. Dos a&ntilde;os de garant&iacute;a.</p>","DUS-5000 PLUS Ultrasonido
+Tecnologías Poderosas para Ser Tu Asistente Portátil
+El sistema de diagnóstico por ultrasonido digital avanzado® DUS-500 Plus es un nuevo y compacto sistema de ultrasonido que ofrece un valor impresionante y la mejor calidad en toda la gama de aplicaciones con soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes de Doppler por potencia y Doppler por onda pulsada para satisfacer los requisitos diagnósticos más exigentes.
+Características Estándar
+Modos de Imágenes
+Modo B (B)
+Imágenes Armonicas de Tejido (THI)
+Imágenes Armonicas de Inversión Pura (PHI)
+Mapeo de Flujo en Color (CFM)
+Imágenes de Doppler por Potencia (PDI)
+Imágenes de Doppler por Potencia Direccional (DPDI)
+Imágenes Doppler de Tejido (TDI)
+Doppler por Onda Pulsada (PW)
+Doppler por Onda Continua (CW)
+Modo M (M)
+Modo Color M (CFM+M)
+Modo M Anatómico (AMM, Steer M)
+Funciones
+Reducción de Ruido en 2D y Mejora de Bordes (2D μ-scan)
+Imágenes Compuestas Espaciales (SCI)
+Auto trazado PW
+Imágenes de Flujo SR
+Imágenes Trapezoidales
+Imágenes Panorámicas en Tiempo Real 2D
+Compensación de Ganancia Lateral Dual (LGC)
+Auto (Optimización con un solo botón para 2D/M/CW/PW)
+Función de Rotación de Imagen
+Medición Automática de IMT
+Índice TEI
+Guía de Biopsia
+VIS-Needle (Mejora de Visualización de Aguja)
+Imágenes Panorámicas (2D en Tiempo Real)
+Zoom en Pantalla Completa
+Mostrar Galería
+DICOM 3.0: WIFI (DICOM)
+Triplex
+Cumple con el Estándar de Calidad ISO 13485. Dos años de garantía.
+"

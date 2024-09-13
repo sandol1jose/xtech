@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Portfolio Details - Active Bootstrap Template</title>
+  <title>Sistemas de ultrasonido</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -26,6 +26,7 @@
 
   <!-- Main CSS File -->
   <link href="../assets/css/main.css" rel="stylesheet">
+  <link href="../assets/css/categorias.css" rel="stylesheet">
 
   <link href="../assets/css/productos.css" rel="stylesheet">
 
@@ -43,7 +44,7 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="../index.html" class="logo d-flex align-items-center">
+      <a href="../index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <img src="../assets/img/logo.png" alt="circle image" class="img-fluid">
@@ -52,33 +53,8 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="../index.html" class="active">Inicio</a></li>
-          <!--
-          <li><a href="about.html">Acerca</a></li>
-          <li><a href="services.html">Servicio</a></li>
-          <li><a href="portfolio.html">Portafolio</a></li>
-          <li><a href="team.html">Equipo</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-        -->
+          <li><a href="../index.php" class="active">Inicio</a></li>
+
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
@@ -89,142 +65,114 @@
     <!-- Page Title -->
     <div class="page-title light-background">
       <div class="container">
-        <h1>DUO-5000 Plus</h1>
+        <h1>Sistemas de Ultrasonido</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="../index.html">Productos</a></li>
-            <li class="current">Detalle de productos</li>
+            <li><a href="../index.php#categorias">Categorias</a></li>
+            <li class="current"><?php echo $_GET["cat"]; ?></li>
           </ol>
         </nav>
       </div>
     </div><!-- End Page Title -->
 
-    <!-- Portfolio Details Section -->
-    <section id="portfolio-details" class="portfolio-details section">
-
-      <div class="container" data-aos="fade-up">
-
-        <div class="flex-container">
-
-          <div class="flex-item-left">
-            <img src="../assets/img/Ultrasonido2.png" alt="Product Image" class="product-image">
-          </div>
-
-          <div class="flex-item-right">
-              <div class="product-info">
-                <h3 class="product-title">Sistema de Ultrasonido DUS-5000 Plus</h3>
-                <p class="product-description">
-                  Tecnologías poderosas para ser tu asistente portátil de confianza. 
-                  El Sistema de Imagenología de Diagnóstico por Ultrasonido Digital Avanzado® 
-                  DUS-500 Plus es un impresionante sistema de ultrasonido compacto, que ofrece 
-                  un valor excepcional y la mejor calidad en toda la gama de aplicaciones, con 
-                  soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes Doppler 
-                  de potencia e imágenes Doppler de onda pulsada para cumplir con los requisitos de 
-                  diagnóstico más exigentes.
-                </p>
-                <!--
-                <div class="product-price">$99.99</div>
-                <button class="btn btn-primary buy-btn">Buy Now</button>
-                -->
-            </div>
-          </div>
-
-          <div class="flex-item-down">
-            <!--
-            <div class="product-details mt-3">
-                <h5>Product Details:</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque
-                    nisl consectetur et.</p>
-            </div>
-            -->
-          </div>
-
-        </div>
 
 
-        <div class="row justify-content-between gy-4 mt-4">
+    <section id="categorias" class="stats section" data-aos="fade-up">
 
-          <div class="col-lg-8" data-aos="fade-up">
-            <div class="portfolio-description">
-              <h1>DUS-5000 PLUS Ultrasonido</h1>
-              <h2>Tecnologías Poderosas para Ser Tu Asistente Portátil</h2>
-              <p>El sistema de diagnóstico por ultrasonido digital avanzado® DUS-500 Plus es un nuevo y compacto sistema de ultrasonido que ofrece un valor impresionante y la mejor calidad en toda la gama de aplicaciones con soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes de Doppler por potencia y Doppler por onda pulsada para satisfacer los requisitos diagnósticos más exigentes.</p>
-              
-              <div class="standard-features">
-                  <h2>Características Estándar</h2>
-                  <div class="features">
-                      <h3>Modos de Imágenes</h3>
-                      <ul>
-                          <li>Modo B (B)</li>
-                          <li>Imágenes Armonicas de Tejido (THI)</li>
-                          <li>Imágenes Armonicas de Inversión Pura (PHI)</li>
-                          <li>Mapeo de Flujo en Color (CFM)</li>
-                          <li>Imágenes de Doppler por Potencia (PDI)</li>
-                          <li>Imágenes de Doppler por Potencia Direccional (DPDI)</li>
-                          <li>Imágenes Doppler de Tejido (TDI)</li>
-                          <li>Doppler por Onda Pulsada (PW)</li>
-                          <li>Doppler por Onda Continua (CW)</li>
-                          <li>Modo M (M)</li>
-                          <li>Modo Color M (CFM+M)</li>
-                          <li>Modo M Anatómico (AMM, Steer M)</li>
-                      </ul>
-                  </div>
-      
-                  <div class="functions">
-                      <h3>Funciones</h3>
-                      <ul>
-                          <li>Reducción de Ruido en 2D y Mejora de Bordes (2D μ-scan)</li>
-                          <li>Imágenes Compuestas Espaciales (SCI)</li>
-                          <li>Auto trazado PW</li>
-                          <li>Imágenes de Flujo SR</li>
-                          <li>Imágenes Trapezoidales</li>
-                          <li>Imágenes Panorámicas en Tiempo Real 2D</li>
-                          <li>Compensación de Ganancia Lateral Dual (LGC)</li>
-                          <li>Auto (Optimización con un solo botón para 2D/M/CW/PW)</li>
-                          <li>Función de Rotación de Imagen</li>
-                          <li>Medición Automática de IMT</li>
-                          <li>Índice TEI</li>
-                          <li>Guía de Biopsia</li>
-                          <li>VIS-Needle (Mejora de Visualización de Aguja)</li>
-                          <li>Imágenes Panorámicas (2D en Tiempo Real)</li>
-                          <li>Zoom en Pantalla Completa</li>
-                          <li>Mostrar Galería</li>
-                          <li>DICOM 3.0: WIFI (DICOM)</li>
-                          <li>Triplex</li>
-                      </ul>
-                  </div>
+      <div class="container mt-4">
+        <div class="row">
+
+        
+
+
+        <?php
+          header('Content-Type: text/html; charset=utf-8');
+          #$archivoCSV = 'productos-ultrasonido.csv'; // Ruta a tu archivo CSV
+
+          $archivoCSV = $_GET["cat"] . ".csv";
+          
+          // Abrir el archivo CSV
+          if (($handle = fopen($archivoCSV, "r")) !== FALSE) {
+              $html = '';
+
+              //Leer y descartar la primera fila (los encabezados)
+              fgetcsv($handle, 1000, ",");
+          
+              // Leer cada línea del archivo CSV
+              while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+                  if (count($data) >= 4) { // Asegurarse de que haya al menos cuatro columnas
+                      list($id, $imagen, $titulo, $descripcion) = $data;
+          
+                      $html .= '<div class="col-md-4 mb-4">
+                          <div class="product-card">
+                              <a href="producto.php?id=' . htmlspecialchars($id) . '">
+                                  <div class="div-image">
+                                      <img src="../assets/img/Productos/' . htmlspecialchars($imagen) . '" alt="' . htmlspecialchars($titulo) . '">
+                                  </div>
+                              </a>
+                              <div class="card-body">
+                                  <div class="div-texto">
+                                      <a href="producto.php?id=' . htmlspecialchars($id) . '">
+                                          <h5 class="card-title">' . htmlspecialchars($titulo) . '</h5>
+                                      </a>
+                                      <p class="card-text">' . htmlspecialchars($descripcion) . '</p>
+                                  </div>
+                                  <a href="producto.php?id=' . htmlspecialchars($id) . '" class="btn btn-get-started">Ver producto</a>
+                              </div>
+                          </div>
+                      </div>';
+                  }
+              }
+          
+              // Cerrar el archivo CSV
+              fclose($handle);
+          
+              // Imprimir el HTML generado
+              echo $html;
+          } else {
+              echo 'No se pudo abrir el archivo CSV.';
+          }
+          ?>
+
+
+
+
+        <!-- 
+          <div class="col-md-4 mb-4">
+            <div class="product-card">
+              <a href="">
+                <div class="div-image">
+                  <img src="../assets/img/Productos/DUS-5000 Plus.jpg" alt="Producto 1">
+                </div>
+              </a>
+              <div class="card-body">
+
+                <div class="div-texto">
+
+                  <a href="">
+                    <h5 class="card-title">Sistema de Ultrasonido DUS-5000 Plus</h5>
+                  </a>
+
+                  <p class="card-text">
+                    Tecnologías poderosas para ser tu asistente portátil de confianza. El Sistema de Imagenología 
+                    de Diagnóstico por Ultrasonido Digital Avanzado® DUS-500 Plus es un impresionante sistema de ultrasonido compacto, 
+                    que ofrece un valor excepcional y la mejor calidad en toda la gama de aplicaciones, con soporte mejorado para PW/CW, 
+                    imágenes de flujo Doppler en color, imágenes Doppler de potencia e imágenes Doppler de onda pulsada para cumplir con 
+                    los requisitos de diagnóstico más exigentes.
+                  </p>
+
+                </div>
+
+                <a href="categorias/ultrasonido.html" class="btn btn-get-started">Ver producto</a>
               </div>
-      
-              
-                  <p>Cumple con el Estándar de Calidad ISO 13485. Dos años de garantía.</p>
-              
-
-              <video class="video" controls>
-                <source src="../assets/img/ultrasonido.mp4" type="video/mp4">
-                Tu navegador no soporta la etiqueta de video.
-              </video>
-
             </div>
-          </div>
-
-          <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
-            <div class="portfolio-info">
-              <h3>Información adicional</h3>
-              <ul>
-                <li><strong>Fabricante</strong> Advanced Instrumentations</li>
-                <li><strong>Pais</strong> Estados Unidos</li>
-                <!--<li><strong>Project date</strong> 01 March, 2020</li>-->
-                <li><strong>Especificaciones técnicas</strong> <a href="../assets/pdf/DUS-5000-Plus.pdf" target="_blank">DUS-5000-Plus.pdf</a></li>
-                <li><a target="_blank" href="https://wa.me/50249420101?text=Hola, vi el producto DUS-5000 PLUS Ultrasonido en su página web y estoy interesado en obtener más información. ¿Podrían proporcionarme detalles adicionales?" class="btn-visit align-self-start">Cotizar</a></li>
-              </ul>
-            </div>
-          </div>
-
+          </div>-->
+          <!-- Agrega más tarjetas de producto aquí -->
         </div>
-
       </div>
+    </section>
+      
 
-    </section><!-- /Portfolio Details Section -->
 
   </main>
 
