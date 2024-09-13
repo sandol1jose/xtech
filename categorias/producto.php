@@ -86,10 +86,6 @@
   </header>
 
 
-
-
-
-
   <?php
           header('Content-Type: text/html; charset=utf-8');
           $archivoCSV = "DetalleProductos.csv";
@@ -121,19 +117,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   <main class="main">
 
     <!-- Page Title -->
@@ -160,7 +143,7 @@
         <div class="flex-container">
 
           <div class="flex-item-left">
-            <img src="../assets/img/<?php echo $imagen1; ?>" alt="Product Image" class="product-image">
+            <img src="../assets/img/Productos/<?php echo $imagen1; ?>" alt="Product Image" class="product-image">
           </div>
 
           <div class="flex-item-right">
@@ -195,10 +178,13 @@
             <div class="portfolio-description">
                 <?php echo $detalles; ?>
                 <br>
-              <video class="video" controls>
-                <source src="../assets/img/<?php echo $video1; ?>" type="video/mp4">
-                Tu navegador no soporta la etiqueta de video.
-              </video>
+              
+                <?php if (!empty($video1)): ?>
+                  <video class="video" controls>
+                  <source src="../assets/img/videos/<?php echo $video1; ?>" type="video/mp4">
+                  Tu navegador no soporta la etiqueta de video.
+                  </video>
+                <?php endif; ?>
             </div>
           </div>
 
@@ -209,13 +195,22 @@
                 <li><strong>Fabricante</strong> <?php echo $fabricante; ?></li>
                 <li><strong>Pais</strong> <?php echo $pais; ?></li>
                 <!--<li><strong>Project date</strong> 01 March, 2020</li>-->
-                <li><strong>Especificaciones técnicas</strong> 
-                    <a href="../assets/pdf/<?php echo $documento; ?>" target="_blank">
-                        <img class="iconopdf" src="../assets/img/pdf.png" alt="">
-                        <?php echo $documento; ?>
-                    </a>
+                
+                <?php
+                  if (!empty($documento) && file_exists("../assets/pdf/" . $documento)) {
+                    echo '<li><strong>Especificaciones técnicas</strong> 
+                    <a href="../assets/pdf/' . $documento . '" target="_blank">
+                            <img class="iconopdf" src="../assets/img/pdf.png" alt="">
+                            ' . $documento . '
+                          </a>';
+                  }
+                  ?>
                 </li>
-                <li><a target="_blank" href="https://wa.me/50249420101?text=Hola, vi el producto <?php echo $nombre; ?> en su página web y estoy interesado en obtener más información. ¿Podrían proporcionarme detalles adicionales?" class="btn-visit align-self-start">Cotizar</a></li>
+                <li><a target="_blank" href="https://wa.me/50249420101?text=Hola, vi el producto <?php echo $nombre; ?> en su página web 
+                y estoy interesado en obtener más información. 
+                ¿Podrían proporcionarme detalles adicionales?
+                <?php echo $nombre; ?>
+                " class="btn-visit align-self-start">Cotizar</a></li>
               </ul>
             </div>
           </div>

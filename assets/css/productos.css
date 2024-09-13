@@ -8,8 +8,10 @@
 }
 
 .product-image {
-    width: 416px;
-    height: 500px;
+    /*width: 416px;
+    height: 500px;*/
+    width: 652px;
+    height: 456px;
     object-fit: cover;
     border-radius: 8px;
 }

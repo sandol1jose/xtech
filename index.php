@@ -120,13 +120,22 @@
               </script>
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Rayos X Portátiles y Generadores.png" alt="Image" class="img-fluid">
+                  <img src="assets/img/carrousel/1.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Ultrasonido.jpg" alt="Image" class="img-fluid">
+                <img src="assets/img/carrousel/2.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Sistemas de Mamografía.png" alt="Image" class="img-fluid">
+                <img src="assets/img/carrousel/3.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/carrousel/4.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                <img src="assets/img/carrousel/5.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                <img src="assets/img/carrousel/6.png" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-pagination"></div>
