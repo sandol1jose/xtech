@@ -65,7 +65,7 @@
     <!-- Page Title -->
     <div class="page-title light-background">
       <div class="container">
-        <h1>Sistemas de Ultrasonido</h1>
+      <h1><?php echo $_GET["cat"]; ?></h1>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="../index.php#categorias">Categorias</a></li>

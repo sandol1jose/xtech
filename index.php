@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Active Bootstrap Template</title>
+  <title>X-Tech</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -120,13 +120,22 @@
               </script>
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Rayos X Portátiles y Generadores.png" alt="Image" class="img-fluid">
+                  <img src="assets/img/carrousel/1.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Ultrasonido.jpg" alt="Image" class="img-fluid">
+                <img src="assets/img/carrousel/2.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/categorias/Sistemas de Mamografía.png" alt="Image" class="img-fluid">
+                <img src="assets/img/carrousel/3.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                  <img src="assets/img/carrousel/4.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                <img src="assets/img/carrousel/5.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                <img src="assets/img/carrousel/6.png" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-pagination"></div>
@@ -422,7 +431,7 @@
 
 <?php
 
-          $archivoCSV = 'categorias/categorias.csv'; // Ruta a tu archivo CSV
+          $archivoCSV = 'categorias/Categorias.csv'; // Ruta a tu archivo CSV
           
           // Abrir el archivo CSV
           if (($handle = fopen($archivoCSV, "r")) !== FALSE) {
@@ -631,7 +640,7 @@
       </div>
 
       <div class="copyright d-flex flex-column flex-md-row align-items-center justify-content-md-between">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Active.</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">X-tech.</strong> <span>All Rights Reserved</span></p>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you've purchased the pro version. -->
