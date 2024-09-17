@@ -48,7 +48,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <img src="../assets/img/logo.png" alt="circle image" class="img-fluid">
-        <h1 class="sitename">X-Tech Chiquimula</h1>
+        <h1 class="sitename">X-TECH Chiquimula</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -183,7 +183,7 @@
           <div class="widget">
             <h3 class="widget-heading">Acerca de nosotros</h3>
             <p class="mb-4">
-              En X-Tech, nos especializamos en la venta de equipos médicos avanzados, 
+              En X-TECH, nos especializamos en la venta de equipos médicos avanzados, 
               incluyendo rayos X, ultrasonido, Doppler, rayos X portátil y radiografía 
               digital. Nuestro objetivo es proporcionar tecnología de alta calidad y 
               un excelente servicio al cliente para mejorar la precisión y eficiencia 
@@ -279,7 +279,7 @@
           <!-- You can delete the links only if you've purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Diseñado por <a href="">X-Tech</a>
+          Diseñado por <a href="">X-TECH</a>
         </div>
       </div>
     </div>

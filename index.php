@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>X-Tech</title>
+  <title>X-TECH</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -46,7 +46,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <img src="assets/img/logo.png" alt="circle image" class="img-fluid">
-        <h1 class="sitename">X-Tech Chiquimula</h1>
+        <h1 class="sitename">X-TECH Chiquimula</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -142,12 +142,12 @@
             </div>
           </div>
           <div class="col-lg-4 order-lg-1">
-            <span class="section-subtitle" data-aos="fade-up">Bienvenidos a X-Tech</span>
+            <span class="section-subtitle" data-aos="fade-up">Bienvenidos a X-TECH</span>
             <h1 class="mb-4" data-aos="fade-up">
-              X-Tech: Lo mejor en insumos médicos
+              X-TECH: Lo mejor en insumos médicos
             </h1>
             <p data-aos="fade-up">
-              En X-Tech, somos su distribuidor de confianza en Guatemala para equipo médico de alta calidad. 
+              En X-TECH, somos su distribuidor de confianza en Guatemala para equipo médico de alta calidad. 
               Ofrecemos una amplia gama de soluciones en radiología, desde sistemas de mamografía digital y 
               máquinas de rayos X, hasta tomografía, ultrasonidos y densitometría ósea. Nuestra misión es brindar 
               tecnología avanzada que respalde a los profesionales de la salud, garantizando diagnósticos precisos y eficientes.
@@ -550,7 +550,7 @@
           <div class="widget">
             <h3 class="widget-heading">Acerca de nosotros</h3>
             <p class="mb-4">
-              En X-Tech, nos especializamos en la venta de equipos médicos avanzados, 
+              En X-TECH, nos especializamos en la venta de equipos médicos avanzados, 
               incluyendo rayos X, ultrasonido, Doppler, rayos X portátil y radiografía 
               digital. Nuestro objetivo es proporcionar tecnología de alta calidad y 
               un excelente servicio al cliente para mejorar la precisión y eficiencia 
@@ -640,13 +640,13 @@
       </div>
 
       <div class="copyright d-flex flex-column flex-md-row align-items-center justify-content-md-between">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">X-tech.</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">X-TECH.</strong> <span>All Rights Reserved</span></p>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you've purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Diseñado por <a href="">X-Tech</a>
+          Diseñado por <a href="">X-TECH</a>
         </div>
       </div>
     </div>
