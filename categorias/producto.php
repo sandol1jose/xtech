@@ -1,6 +1,10 @@
+<?php
+// Establecer el encabezado Content-Type antes de cualquier salida
+header('Content-Type: text/html; charset=utf-8');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -36,6 +40,15 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
+    <!-- Agregar Bootstrap CSS para el estilo -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Agregar jQuery, Popper.js y Bootstrap JS para la funcionalidad del carrusel -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </head>
 
 <body class="portfolio-details-page">
@@ -86,33 +99,33 @@
   </header>
 
 
-  <?php
-          header('Content-Type: text/html; charset=utf-8');
-          $archivoCSV = "DetalleProductos.csv";
-          $idProducto = $_GET["id"];
-          
-          // Abrir el archivo CSV
-          if (($handle = fopen($archivoCSV, "r")) !== FALSE) {
-              $html = '';
-          
-              // Leer cada línea del archivo CSV
-              while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-                  if (count($data) >= 14) { // Asegurarse de que haya al menos cuatro columnas
-                    list($id, $nombre, $descripcioncorta, $fabricante, $pais, $documento, $video1, $video2, $imagen1, $imagen2, $imagen3, $imagen4, $imagen5, $categoria, $detalles) = $data;
-                    if ($id == $idProducto) {
-                        break; // Salir del bucle una vez encontrado el producto
-                    }else{
-                        list($id, $nombre, $descripcioncorta, $fabricante, $pais, $documento, $video1, $video2, $imagen1, $imagen2, $imagen3, $imagen4, $imagen5, $categoria, $detalles) = null;
-                    }
-                  }
-              }
-          
-              // Cerrar el archivo CSV
-              fclose($handle);
-          } else {
-              echo 'No se pudo abrir el archivo CSV.';
+<?php
+//header('Content-Type: text/html; charset=utf-8');
+$archivoCSV = "DetalleProductos.csv";
+$idProducto = $_GET["id"];
+
+// Abrir el archivo CSV
+if (($handle = fopen($archivoCSV, "r")) !== FALSE) {
+    $html = '';
+
+    // Leer cada línea del archivo CSV
+    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+        if (count($data) >= 14) { // Asegurarse de que haya al menos cuatro columnas
+          list($id, $nombre, $descripcioncorta, $fabricante, $pais, $documento, $video1, $video2, $imagen1, $imagen2, $imagen3, $imagen4, $imagen5, $categoria, $detalles) = $data;
+          if ($id == $idProducto) {
+              break; // Salir del bucle una vez encontrado el producto
+          }else{
+              list($id, $nombre, $descripcioncorta, $fabricante, $pais, $documento, $video1, $video2, $imagen1, $imagen2, $imagen3, $imagen4, $imagen5, $categoria, $detalles) = null;
           }
-          ?>
+        }
+    }
+
+    // Cerrar el archivo CSV
+    fclose($handle);
+} else {
+    echo 'No se pudo abrir el archivo CSV.';
+}
+?>
 
 
 
