@@ -123,9 +123,6 @@
                   <img src="assets/img/carrousel/1.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                <img src="assets/img/carrousel/2.png" alt="Image" class="img-fluid">
-                </div>
-                <div class="swiper-slide">
                 <img src="assets/img/carrousel/3.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
@@ -133,9 +130,6 @@
                 </div>
                 <div class="swiper-slide">
                 <img src="assets/img/carrousel/5.png" alt="Image" class="img-fluid">
-                </div>
-                <div class="swiper-slide">
-                <img src="assets/img/carrousel/6.png" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-pagination"></div>
