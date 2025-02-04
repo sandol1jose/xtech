@@ -10,7 +10,7 @@
   <script>
     // Crear el código QR
     var qrcode = new QRCode(document.getElementById("qrcode"), {
-      text: "https://x-techgt.com/",
+      text: "https://x-techgt.com/catalogo2/",
       width: 450,
       height: 450
     });
