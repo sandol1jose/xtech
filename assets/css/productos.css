@@ -79,6 +79,14 @@
 }
 
 
+@media (min-width: 1200px) {
+  .flex-item-right {
+    padding-top: 20px;
+    padding-left: 15px;
+    flex: 1;
+  }
+}
+
 
   @media (max-width: 1200px) {
     .product-image {
@@ -87,6 +95,7 @@
         object-fit: cover;
         border-radius: 8px;
     }
+
 
     .flex-container {
         flex-direction: column;

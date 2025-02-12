@@ -1,5 +1,5 @@
 id,Nombre,Descripción corta,Fabricante,Pais,Documento,Video1,Video2,Imagen1,Imagen2,Imagen3,Imagen4,Imagen5,Categoria,Detalles,
-A1,Sistema de Ultrasonido DUS-5000 Plus ,"Tecnologías poderosas para ser tu asistente portátil de confianza. El Sistema de Imagenología de Diagnóstico por Ultrasonido Digital Avanzado® DUS-500 Plus es un impresionante sistema de ultrasonido compacto, que ofrece un valor excepcional y la mejor calidad en toda la gama de aplicaciones, con soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes Doppler de potencia e imágenes Doppler de onda pulsada para cumplir con los requisitos de diagnóstico más exigentes. ",Advanced Instrumentations,Estados Unidos de América,DUS-5000-Plus.pdf ,,,DUS 5000 PLUS.png,,,,,Sistemas de ultrasonido,"<h1 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: var(--heading-color); font-size: 2.5rem; font-family: var(--heading-font); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"">DUS-5000 PLUS Ultrasonido</h1>
+A1,Sistema de Ultrasonido DUS-5000 Plus ,"Tecnologías poderosas para ser tu asistente portátil de confianza. El Sistema de Imagenología de Diagnóstico por Ultrasonido Digital Avanzado® DUS-500 Plus es un impresionante sistema de ultrasonido compacto, que ofrece un valor excepcional y la mejor calidad en toda la gama de aplicaciones, con soporte mejorado para PW/CW, imágenes de flujo Doppler en color, imágenes Doppler de potencia e imágenes Doppler de onda pulsada para cumplir con los requisitos de diagnóstico más exigentes. ",Advanced Instrumentations,Estados Unidos de América,DUS-5000-Plus.pdf,,,DUS 5000 PLUS.png,,,,,Sistemas de ultrasonido,"<h1 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: var(--heading-color); font-size: 2.5rem; font-family: var(--heading-font); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"">DUS-5000 PLUS Ultrasonido</h1>
 <h2 style=""box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-weight: 700; line-height: 1.2; color: var(--heading-color); font-size: 26px; font-family: var(--heading-font); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"">Tecnolog&iacute;as Poderosas para Ser Tu Asistente Port&aacute;til</h2>
 <p style='box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding: 0px; color: rgb(33, 37, 41); font-family: Roboto, system-ui, -apple-system, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, ""Noto Sans"", ""Liberation Sans"", sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>El sistema de diagn&oacute;stico por ultrasonido digital avanzado&reg; DUS-500 Plus es un nuevo y compacto sistema de ultrasonido que ofrece un valor impresionante y la mejor calidad en toda la gama de aplicaciones con soporte mejorado para PW/CW, im&aacute;genes de flujo Doppler en color, im&aacute;genes de Doppler por potencia y Doppler por onda pulsada para satisfacer los requisitos diagn&oacute;sticos m&aacute;s exigentes.</p>
 <div class=""standard-features"" style='box-sizing: border-box; color: rgb(33, 37, 41); font-family: Roboto, system-ui, -apple-system, ""Segoe UI"", Roboto, ""Helvetica Neue"", Arial, ""Noto Sans"", ""Liberation Sans"", sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol"", ""Noto Color Emoji""; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
@@ -95,8 +95,109 @@ B1,LUMEN 4336W,"El Varex LUMEN 4336W es un detector de panel plano liviano dise�
 B2,Maquina De Rayos X SEDECAL Dragon,"La SEDECAL Dragon es una máquina de rayos X portátil, ideal para obtener imágenes radiológicas en áreas de difícil acceso o en pacientes con movilidad limitada. Su diseño compacto con ruedas facilita su transporte, mientras que su brazo ajustable permite posicionar el tubo de rayos X en diferentes ángulos. Funciona con baterías recargables, lo que la hace versátil para hospitales, clínicas y entornos de emergencia. ",N/A,,,,,Maquina De Rayos X SEDECAL Dragon.png,,,,,Sistemas de Rayos X,"<h1>Equipo de Rayos X Portátil</h1> <p>Este equipo está diseñado para realizar radiografías en áreas de difícil acceso o en situaciones donde los pacientes no pueden desplazarse, como en:</p> <ul> <li>Unidades de cuidados intensivos</li> <li>Salas de emergencias</li> <li>Domicilios</li> </ul> <h2>Características Principales</h2> <ul> <li><strong>Portabilidad:</strong> Montada sobre ruedas grandes y con una estructura compacta, la máquina puede ser fácilmente trasladada a diferentes ubicaciones.</li> <li><strong>Brazo ajustable:</strong> Permite posicionar el tubo de rayos X en diferentes ángulos y alturas para obtener imágenes desde distintas perspectivas.</li> <li><strong>Pantalla digital y controles integrados:</strong> Los controles suelen estar incorporados en la unidad para ajustar los parámetros de la radiografía (tiempo de exposición, energía, etc.).</li> <li><strong>Fuente de energía independiente:</strong> Funciona con baterías recargables, lo que permite realizar múltiples exámenes sin la necesidad de estar conectada a una fuente de corriente eléctrica durante su uso.</li> </ul> <h2>Aplicaciones</h2> <p>Este tipo de equipos se utilizan ampliamente en:</p> <ul> <li>Hospitales</li> <li>Clínicas</li> <li>Entornos de emergencia</li> </ul> <p>Son valorados por su versatilidad y capacidad para obtener imágenes radiológicas de alta calidad en ubicaciones remotas o en pacientes con movilidad limitada.</p> ",
 B3,Sistema de rayox x Americomp,"En comparación con los generadores convencionales de 60 Hertz, la tecnología de alta frecuencia produce más rayos X en menos tiempo. La reducción del tiempo de exposición minimizará la borrosidad de la imagen causada por el movimiento.<br><br> Al producir kV más efectivos, la tecnología HF mejora la potencia de penetración, lo que permite ajustes de kV más bajos. La radiación dispersa resultante se minimiza, eliminando películas grises empañadas.<br><br> El panel de control montado en la parte delantera proporciona información importante sobre la exposición y fácil acceso para personas de cualquier altura. Completamente sellado de fluidos animales. ",,,,,,Sistema de rayox x Americomp.png,,,,,Sistemas de Rayos X,,
 B4,Sistema de Rayos X TXR,"El Sistema de Rayos X TXR es un equipo radiológico diseñado para ofrecer imágenes de alta calidad con precisión diagnóstica. Ideal para una amplia gama de estudios, su versatilidad y confiabilidad lo hacen adecuado para hospitales y clínicas, proporcionando un rendimiento eficiente en un diseño robusto y fácil de usar. ",,,,,,Sistema de Rayos X TXR.png,,,,,Sistemas de Rayos X,,"<h2>Fuentes</h2>   <ul>     <li><a href=""http://ecoray.kr/rs_hf525p"" target=""_blank"">Ecoray - HF-525 PLUS</a></li>     <li><a href=""https://pdf.medicalexpo.com/pdf/ecoray/hf-525-plus/68308-131894.html"" target=""_blank"">HF_525 plus - EcoRay - PDF Catalogs | Technical Documentation - MedicalExpo</a></li>     <li><a href=""https://www.sinamed.cl/productos/rayos-x-humano/rx-analogo-hf525-plus"" target=""_blank"">Rayos X, Digitalizadores y Ecógrafos | Artículos Plomados - Sinamed</a></li>   </ul>"
-,,,,,,,,,,,,,,,"<h2>Fuentes</h2>   <ul>     <li><a href=""https://www.icrco.com/airdrc"" target=""_blank"">DR | AirDRc - icrco</a></li>     <li><a href=""https://www.icrco.com/airdr-p"" target=""_blank"">DR | AirDR-P - icrco</a></li>   </ul>"
-,,,,,,,,,,,,,,,
+B5,AIR DRC P Innovative Direct Radiography,"Este sistema de radiografía digital directa de ICRCO ofrece un flujo de trabajo optimizado con una rápida captura de imágenes y una calidad de imagen excepcional. Diseñado para maximizar la productividad en entornos clínicos, el AIR DRC P combina innovación y confiabilidad. ",ICRCO ,Estados Unidos de América,"AirDR-P Brochure Spanish, X-tech.pdf",,,AIR DRC P Innovative Direct Radiography.png,,,,,Sistemas de Rayos X,"  <h1>AIR DRC P – ICRCO</h1>   <h2>Descripción General</h2>   <p>El AIR DRC P es un sistema de radiografía digital directa de ICRCO que ofrece un flujo de trabajo optimizado con una rápida captura de imágenes y una calidad de imagen excepcional. Diseñado para maximizar la productividad en entornos clínicos, el AIR DRC P combina innovación y confiabilidad.</p>      <h2>Características Principales</h2>   <ul>     <li><strong>Detector de alta calidad:</strong> Disponible en Cesio (Csi), ofreciendo la mejor opción en términos de costo, dosis y resolución.</li>     <li><strong>Captura rápida de imágenes:</strong> Proporciona imágenes en menos de 5 segundos, optimizando el flujo de trabajo.</li>     <li><strong>Detector robusto y ligero:</strong> Pesa poco más de 9 libras, con un área activa de 17"" x 17"".</li>     <li><strong>Integración sin problemas:</strong> AED integrado para una implementación sin complicaciones en salas de rayos X nuevas o existentes.</li>     <li><strong>Alta resolución:</strong> 140 micrones, 16 bits de resolución.</li>     <li><strong>Diseño duradero:</strong> Marco de fibra de carbono delgado y robusto, con clasificación IP42 para protección contra polvo y agua.</li>   </ul>      <h2>Especificaciones Técnicas</h2>   <ul>     <li><strong>Material del detector:</strong> Cesio (Csi).</li>     <li><strong>Tamaño del detector:</strong> 17"" x 17"".</li>     <li><strong>Peso:</strong> Poco más de 9 libras.</li>     <li><strong>Resolución:</strong> 140 micrones, 16 bits.</li>     <li><strong>Tiempo de captura de imagen:</strong> Menos de 5 segundos.</li>     <li><strong>Clasificación IP:</strong> IP42.</li>     <li><strong>Software:</strong> Compatible con el software propietario de ICRCO, X-ray Capture (XC).</li>   </ul>      <h2>Componentes Estándar</h2>   <ul>     <li>Detector de radiografía digital directa</li>     <li>Cable de comunicación multicanal robusto</li>     <li>Software de adquisición avanzado</li>   </ul>      <h2>Opciones Adicionales</h2>   <ul>     <li>Panel de control LCD</li>     <li>Soporte de montaje en pared o techo</li>     <li>Accesorios de manejo</li>   </ul>","<h2>Fuentes</h2>   <ul>     <li><a href=""https://www.icrco.com/airdrc"" target=""_blank"">DR | AirDRc - icrco</a></li>     <li><a href=""https://www.icrco.com/airdr-p"" target=""_blank"">DR | AirDR-P - icrco</a></li>   </ul>"
+B6,AMRAD MEDICAL,"Sistema de máquina de rayos X estacionaria Amrad/Summit. Generadores de Alta Frecuencia Serie E. 30 kW - Monofásico y Trifásico, 42 kW - Monofásico y Trifásico, 52 kW - Trifásico. Mesas Fijas, Elevadoras con Tapa Flotante. Soporte de tubo montado en el suelo, soportes de pared, soporte de pared Bucky. Serie DR. ",AMRAD MEDICAL,Estados Unidos de América,AMRAD-Medical-FMT-Classic-brochure_LITR031-0523_sm.pdf,,,AMRAD MEDICAL FMT Classic.png,,,,,Sistemas de Rayos X,"    <h1>FMT Classic: Rendimiento, Versatilidad y Bajo Costo de Propiedad</h1>
+    <p>El FMT Classic ofrece la máxima capacidad y está diseñado para su uso en clínicas de volumen medio a alto. Con características diseñadas para facilitar el trabajo de los técnicos, como el <strong>Dial de Angulación de Fácil Lectura</strong> y el <strong>Mango de Liberación con Un Toque</strong>, el posicionamiento es sencillo y ayuda a mejorar el flujo de pacientes. Además, características de seguridad como los <strong>Pedales Empotrados</strong> y elementos de posicionamiento como el <strong>Reposacabezas Cómodo para el Paciente</strong> y el <strong>Indicador de Altura de la Mesa</strong> permiten al técnico centrarse en el paciente, mejorando la calidad de la experiencia.</p>
+    <h2>Características Principales</h2>
+    <ul>
+        <li><strong>Reposacabezas Cómodo para el Paciente:</strong> Colocado estratégicamente para garantizar la comodidad del paciente y alinear el cuerpo con el receptor para exámenes en posición vertical.</li>
+        <li><strong>Mango de Liberación con Un Toque:</strong> Permite ajustar la posición del equipo con solo tocar un botón.</li>
+        <li><strong>Indicador de Altura de la Mesa:</strong> Luz indicadora para la altura óptima de trabajo de la mesa elevable.</li>
+        <li><strong>Dial de Angulación de Fácil Lectura:</strong> Dial retroiluminado en azul para identificar y ajustar ángulos de manera rápida y precisa.</li>
+        <li><strong>Nuevo! Topes Electrónicos de 40” y 72”:</strong> Posicionamiento horizontal rápido para exámenes de carga de peso y en posición vertical.</li>
+        <li><strong>Pedales Empotrados:</strong> Diseño de cuatro pedales empotrados para una operación fácil y seguridad del paciente.</li>
+    </ul>
+    <h2>Opciones Disponibles para Cualquier Necesidad y Presupuesto</h2>
+    <ul>
+        <li><strong>Mesa S210 No Elevable (Capacidad de 400 LB):</strong> Una inversión inteligente.</li>
+        <li><strong>Soporte de Pared Premier J1000:</strong> El FMT Classic ofrece características iguales y obtiene el mismo reembolso que la competencia más costosa, todo con una garantía 5 veces mayor.</li>
+    </ul>
+    <h2>Beneficios Adicionales</h2>
+    <ul>
+        <li>Configurable con una variedad de generadores y tubos de rayos X para adaptarse a cualquier entorno clínico.</li>
+        <li>Diseño tradicional de montaje en piso para larga vida útil y bajo costo de propiedad.</li>
+        <li>Garantía líder en la industria de 5 años en piezas.</li>
+        <li>Compatible con todas las soluciones de radiografía digital (DR).</li>
+    </ul>
+    <h2>Características y Beneficios del Soporte de Tubo Montado en Piso</h2>
+    <ul>
+        <li>Riel montado en el piso para instalación independiente.</li>
+        <li>Capacidades transversales y rotacionales para una amplia gama de exámenes, incluidos laterales de mesa.</li>
+        <li>Requiere una altura mínima del techo de 87"", lo que reduce costosas renovaciones de la sala.</li>
+    </ul>
+    <h2>Características de la Mesa Elevable</h2>
+    <ul>
+        <li>Mesa elevable con superficie plana de cuatro direcciones para facilitar la transferencia y posicionamiento de pacientes.</li>
+        <li>Capacidad de peso del paciente de 400 libras.</li>
+        <li>Pedales empotrados para operación fácil y seguridad del paciente.</li>
+        <li>Luz indicadora para la altura óptima de la mesa.</li>
+    </ul>
+    <h2>Características del Soporte de Pared</h2>
+    <ul>
+        <li>Montaje central completamente contrabalanceado.</li>
+        <li>Mango de liberación con botón para un posicionamiento fácil.</li>
+        <li>Reposacabezas cómodo para el paciente.</li>
+    </ul> ",
+B7,FWFC Classic System ,"El Sistema FWFC Classic puede configurarse para satisfacer las necesidades de cualquier departamento. Este sistema completo de piso a pared/techo está disponible con rieles de 8 pies o la opción de 10 pies para realizar estudios con carga de peso. Además, el Sistema FWFC Classic incluye una garantía de piezas líder en la industria de 5 años. ",TXR International,Estados Unidos de América,TXR-FWFC-Classic-System-Brochure_web.pdf,,,FWFC Classic System TXR.png,,,,,Sistemas de Rayos X,"    <h1>FWFC Classic: Sistema de Soporte de Tubo de Piso a Pared/Techo</h1>
+    <p>El <strong>Sistema FWFC Classic</strong> puede configurarse para satisfacer las necesidades de cualquier departamento. Este sistema completo de piso a pared/techo está disponible con rieles de <strong>8 pies</strong> o la opción de <strong>10 pies</strong> para realizar estudios con carga de peso. Además, el Sistema FWFC Classic incluye una <strong>garantía de piezas líder en la industria de 5 años</strong>.</p>
+    <h2>Características del Soporte de Tubo de Piso a Pared/Techo</h2>
+    <ul>
+        <li><strong>Exámenes de mesa cruzada:</strong> Se realizan fácilmente gracias a las capacidades de rotación de <strong>+/- 180º</strong> y posicionamiento transversal de <strong>+/- 5 pulgadas</strong>.</li>
+        <li><strong>Diseño de montaje de piso a pared o piso a techo:</strong> Se adapta fácilmente a una altura de techo de <strong>8 pies</strong> (mínimo <strong>93 pulgadas</strong>).</li>
+        <li><strong>Disponible con rieles de 8 pies o la opción de 10 pies.</strong></li>
+        <li><strong>Colimador manual certificado de 150 kVp</strong> con montaje giratorio.</li>
+        <li><strong>Luz de posicionamiento láser.</strong></li>
+        <li><strong>Campo de luz LED y cinta métrica.</strong></li>
+    </ul>
+    <h2>Diseño Compacto y Versátil</h2>
+    <p>Un diseño compacto para instalaciones con limitaciones de espacio, que es tanto económico como versátil. <strong>Actualizable a DR:</strong> Pregunte por nuestras soluciones de actualización a radiografía digital.</p>
+    <h2>Mesa de Cubierta Flotante de Cuatro Direcciones</h2>
+    <ul>
+        <li><strong>Cubierta flotante de cuatro direcciones no elevable:</strong> Permite una transferencia y posicionamiento fácil de los pacientes.</li>
+        <li><strong>Pedal empotrado:</strong> Facilita la transferencia segura del paciente.</li>
+        <li><strong>Desplazamiento longitudinal de 28 pulgadas:</strong> Desplazamiento transversal de 10 pulgadas.</li>
+    </ul>
+    <h2>Características de Posicionamiento</h2>
+    <ul>
+        <li><strong>Reposacabezas cómodo para el paciente:</strong> Permite al tecnólogo centrarse en el paciente.</li>
+        <li><strong>Mango de liberación con un toque:</strong> Facilita el posicionamiento.</li>
+    </ul>
+    <h2>Soporte de Pared</h2>
+    <ul>
+        <li><strong>Diseñado para facilidad de uso y simplicidad:</strong> Se baja para exámenes de carga de peso, como rodillas de pie.</li>
+        <li><strong>Mango ergonómico:</strong> Permite un posicionamiento fácil del receptor de pared.</li>
+    </ul>
+    <h2>Especificaciones Técnicas</h2>
+    <h3>Soporte de Tubo FWFC Classic (S225)</h3>
+    <ul>
+        <li><strong>Montaje de piso a pared o piso a techo con rieles de 8 pies.</strong></li>
+        <li><strong>Base rotacional de +/- 360° con topes de 90°.</strong></li>
+        <li><strong>Brazo transversal de tubo de +/- 5 pulgadas, montaje de tubo en plataforma.</strong></li>
+        <li><strong>Desplazamiento vertical de 14 a 76 pulgadas.</strong></li>
+        <li><strong>Dial de angulación, empuñaduras para el operador y cerraduras eléctricas.</strong></li>
+    </ul>
+    <h3>Soporte de Pared FWFC Classic (S109)</h3>
+    <ul>
+        <li><strong>Columna contrabalanceada, montaje de piso a pared.</strong></li>
+        <li><strong>Gabinete de rejilla de 17 x 17 pulgadas.</strong></li>
+        <li><strong>Rejilla de relación 10:1, 103 LPI.</strong></li>
+        <li><strong>Bandeja de casetes robusta y de lujo.</strong></li>
+        <li><strong>Especificar carga izquierda o derecha.</strong></li>
+        <li><strong>Cerraduras eléctricas.</strong></li>
+        <li><strong>Acepta detectores de todos los tamaños.</strong></li>
+    </ul>
+    <h3>Mesa No Elevable (S210)</h3>
+    <ul>
+        <li><strong>Cubierta flotante de cuatro direcciones.</strong></li>
+        <li><strong>Superficie de mesa de 84 x 30 pulgadas, altura de mesa de 31.5 pulgadas.</strong> (Opción de superficie de 76 pulgadas también disponible).</li>
+        <li><strong>Capacidad de carga de paciente de 400 libras.</strong></li>
+        <li><strong>Bandeja de casetes robusta y de lujo.</strong></li>
+    </ul>
+    <h3>Opciones de Generador</h3>
+    <ul>
+        <li><strong>Opciones de generador de 30 a 50 kW.</strong></li>
+    </ul>
+    <p><em>Las especificaciones están sujetas a cambios sin previo aviso.</em></p> ",
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -206,6 +307,56 @@ D2,REFINE MEDICAL Sistema de Mamografía Digital,"Un sistema de mamografía digi
         <li><strong>Interfaz Abierta para Fácil Interconexión</strong>: Compatible con DICOM 3.0, lo que permite la interconexión sin problemas con HIS/RIS/PACS, generación automática de la lista de trabajo y conexión con el sistema de consulta remota Hedy Cloud.</li>
     </ul> ",
 D3,Sistema de mamografía X-MAMMO DR M,"El Detector mamográfico DRTECH RoseM es una solución moderna para convertir sistemas de mamografía analógica en digital. Destaca por su fácil y rápida actualización, con un tamaño estándar de 24x30 cm y una alta resolución de imagen de 76 μm. Compatible con la mayoría de los mamógrafos analógicos, optimiza el flujo de trabajo, reduciendo el tiempo de examen a unos 10 segundos por imagen, mejorando la experiencia para la paciente. ",,,,,,Sistema de mamografía X-MAMMO DR M.png,,,,,Sistemas de Mamografía,"<h1>X-MAMMO DR M</h1>  <h2>Detektor Mammograficzny DRTECH RoseM</h2> <p>El detector de mamografía DRTECH RoseM es una moderna actualización en formato de cassette para la mamografía digital. Sus principales ventajas incluyen:</p> <ul>     <li>Prosta y rápida actualización al sistema digital.</li>     <li>Dimensiones de cassette estándar de 24x30 cm.</li>     <li>Imagen de alta resolución con un píxel de 76 μm.</li>     <li>Compatible con prácticamente todos los mamógrafos analógicos.</li> </ul>  <h2>Flujo optimizado de Trabajo</h2> <ul>     <li>Proceso de trabajo claramente más rápido.</li>     <li>El ciclo de una imagen tarda aproximadamente 10 segundos.</li>     <li>Menor tiempo de espera para la paciente.</li>     <li>Reducción del tiempo total del examen.</li>     <li>Panel de control intuitivo.</li> </ul>  <!-- Carrusel de imágenes --> <div id=""carouselExample"" class=""carousel slide"" data-ride=""carousel"">     <div class=""carousel-inner"">         <div class=""carousel-item active"">             <img src=""../assets/img/Productos/mamografias/mamografia1.jpeg"" class=""d-block w-100"" alt=""Imagen 1"">         </div>         <div class=""carousel-item"">             <img src=""../assets/img/Productos/mamografias/mamografia2.jpeg"" class=""d-block w-100"" alt=""Imagen 2"">         </div>         <div class=""carousel-item"">             <img src=""../assets/img/Productos/mamografias/mamografia3.jpeg"" class=""d-block w-100"" alt=""Imagen 3"">         </div>     </div>     <a class=""carousel-control-prev"" href=""#carouselExample"" role=""button"" data-slide=""prev"">         <span class=""carousel-control-prev-icon"" aria-hidden=""true""></span>         <span class=""sr-only"">Previous</span>     </a>     <a class=""carousel-control-next"" href=""#carouselExample"" role=""button"" data-slide=""next"">         <span class=""carousel-control-next-icon"" aria-hidden=""true""></span>         <span class=""sr-only"">Next</span>     </a> </div>",
+D4,AIDIA UD SISTEMA DE MAMOGRAFÍA DIGITAL DE RENDIMIENTO PREMIUM,"El AIDIA es un sistema de mamografía avanzado con imágenes de alta calidad, posicionamiento automático y control de dosis optimizado. Su diseño compacto y premiado mejora la usabilidad y reduce la ansiedad del paciente. Incluye tecnologías como TRUVIEW®ART para nitidez mejorada y TRUVIEW®M2 con IA para diagnóstico preciso. Integrado con RCONSOLE2, ofrece herramientas especializadas y una interfaz amigable, ideal para flujos de trabajo eficientes y resultados confiables. ",DRTECH,Estados Unidos de América,Mammo DRtech AIDIA Brochure (1).pdf,,,AIDIA UD SISTEMA DE MAMOGRAFÍA DIGITAL DE RENDIMIENTO PREMIUM.png,,,,,Sistemas de Mamografía,"    <h1>Realizando Nuevas Ideas en Imagenología Mamaria: AIDIA</h1>
+    <h2>Calidad de Imagen Excelente</h2>
+    <ul>
+        <li><strong>Tecnología de detector probada</strong> en 47 países en todo el mundo.</li>
+        <li><strong>Imágenes de alta definición:</strong> Dos opciones disponibles:
+            <ul>
+                <li><strong>Indirecto (CsI):</strong> 76㎛</li>
+                <li><strong>Directo (a-Se):</strong> 65㎛</li>
+            </ul>
+        </li>
+    </ul>
+    <h2>Posicionamiento Automático</h2>
+    <p>Configuración automática de la posición según el procedimiento de examen específico del paciente.</p>
+    <h2>Control de Dosis Confiable y Dosis Optimizada para el Paciente</h2>
+    <ul>
+        <li><strong>Control de exposición automático preciso:</strong> Optimiza y determina los parámetros de exposición según las características del seno de cada paciente.</li>
+        <li><strong>Tecnología AAEC y filtro dual:</strong> Garantiza una dosis confiable y optimizada.</li>
+    </ul>
+    <h2>Productividad Aumentada con Máxima Usabilidad</h2>
+    <p>El diseño centrado en la usabilidad y amigable para el usuario de AIDIA proporciona una eficiencia máxima en el flujo de trabajo.</p>
+    <h2>Magnificación Fácil</h2>
+    <p>Adquisición rápida y sencilla de vistas magnificadas sin necesidad de cambiar el bucky.</p>
+    <h2>Diseño con Generador Interno en el Gantry</h2>
+    <ul>
+        <li><strong>Sistema compacto:</strong> Sin compartimento externo para el generador.</li>
+    </ul>
+    <h2>Ventajas del Diseño</h2>
+    <ul>
+        <li><strong>Diseño premiado:</strong> Ganador de premios por su enfoque en aumentar la usabilidad y reducir la ansiedad del paciente, eliminando bordes afilados y rectos para proporcionar un entorno de examen suave y relajante (20’ IDEA / 20’ Reddot).</li>
+        <li><strong>Operación fácil:</strong> 2 botones de control ubicados en el brazo en C y el gantry para una operación sencilla en cualquier posición de examen. Pantalla dual en el brazo en C y en la base del sistema para una fácil visualización de la información.</li>
+        <li><strong>Huella pequeña:</strong> Gracias al diseño con generador interno en el gantry, AIDIA tiene una huella pequeña. Su diseño compacto facilita el transporte y la instalación.</li>
+    </ul>
+    <h2>TRUVIEW®ART</h2>
+    <p>La nitidez de la imagen en una imagen convencional de CsI se reduce debido a la dispersión de la luz. <strong>TRUVIEW®ART</strong>, la tecnología de filtrado inverso única y patentada de DRTECH, reconstruye y mejora la nitidez de la imagen para aumentar la posibilidad de detectar anomalías como microcalcificaciones.</p>
+    <h2>TRUVIEW®M2</h2>
+    <ul>
+        <li><strong>Procesamiento de imágenes con IA:</strong> Aumenta la calidad de la imagen y la precisión diagnóstica.</li>
+        <li><strong>Precisión mejorada en la representación de la estructura mamaria.</strong></li>
+        <li><strong>Aumento de la dimensionalidad de la imagen.</strong></li>
+        <li><strong>Consistencia en la calidad de la imagen.</strong></li>
+        <li><strong>Procesamiento de imágenes optimizado para todo tipo de senos.</strong></li>
+    </ul>
+    <h2>RCONSOLE2</h2>
+    <p>Consola de adquisición de imágenes de mamografía digital.</p>
+    <ul>
+        <li><strong>Procesamiento de imágenes con IA especializado en mamografía:</strong> Para imágenes consistentes y de alta calidad.</li>
+        <li><strong>Herramientas y funciones específicas para mamografía:</strong> Correspondientes a los protocolos y regulaciones globales de detección de cáncer de mama.</li>
+        <li><strong>Interfaz de usuario amigable:</strong> Software de operación rápida y conveniente.</li>
+        <li><strong>Integración perfecta con AIDIA FFDM:</strong> Para una mayor usabilidad.</li>
+    </ul> ",
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 E1,Densitometría Ósea - HOLOGIC DISCOVERY,"El sistema de densitometría ósea HOLOGIC DISCOVERY ofrece una evaluación precisa de la densidad ósea con tecnología avanzada. Ideal para la detección de osteoporosis y evaluación de la salud ósea, este equipo proporciona resultados rápidos y confiables con una excelente calidad de imagen. ",HOLOGIC,Estados Unidos de América,,,,Densitometría Ósea - HOLOGIC DISCOVERY.png,,,,,Densitometría Ósea,"  <h1>Densitometría Ósea - HOLOGIC DISCOVERY</h1>   <h2>Descripción General</h2>   <p>El sistema de densitometría ósea HOLOGIC DISCOVERY ofrece una evaluación precisa de la densidad ósea con tecnología avanzada. Ideal para la detección de osteoporosis y evaluación de la salud ósea, este equipo proporciona resultados rápidos y confiables con una excelente calidad de imagen.</p>      <h2>Características Principales</h2>   <ul>     <li><strong>Detección precisa:</strong> Identifica pacientes en riesgo de osteoporosis y otras afecciones debilitantes.</li>     <li><strong>Matriz de detectores digitales de alta resolución:</strong> Mejora la visualización de fracturas y calcificaciones aórticas abdominales.</li>     <li><strong>Velocidad y calidad de imagen:</strong> Imágenes de cadera y columna vertebral capturadas en tan solo 10 segundos.</li>     <li><strong>Calibración automática continua:</strong> Garantiza resultados precisos y consistentes de examen a examen.</li>     <li><strong>Evaluación instantánea de fractura vertebral de alta definición (IVA-HD):</strong> Mejora la detección de fracturas vertebrales y placas calcificadas en la aorta abdominal.</li>     <li><strong>Evaluación avanzada de la composición corporal:</strong> Produce imágenes en color que muestran la distribución de grasa, masa magra y hueso.</li>   </ul>      <h2>Especificaciones Técnicas</h2>   <ul>     <li><strong>Resolución:</strong> Alta resolución con matriz de detectores digitales.</li>     <li><strong>Modos de operación:</strong> Densitometría ósea y evaluación de la composición corporal.</li>     <li><strong>Tiempo de exploración:</strong> Rápido, con imágenes capturadas en 10 segundos.</li>     <li><strong>Calibración:</strong> Automática y continua para mediciones precisas.</li>   </ul>      <h2>Componentes Estándar</h2>   <ul>     <li>Sistema de densitometría ósea</li>     <li>Software de evaluación de la composición corporal</li>     <li>Estaciones de trabajo ergonómicas</li>   </ul>      <h2>Opciones Adicionales</h2>   <ul>     <li>Evaluación de fractura vertebral de alta definición (IVA-HD)</li>     <li>Compatibilidad con HIS/RIS/PACS</li>   </ul>","  <h2>Fuentes</h2>
